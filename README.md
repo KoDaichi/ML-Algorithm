@@ -1,11 +1,11 @@
-** ML test program **
-== kmeans ==
+## ML test program ##  
+== kmeans ==  
 kmeans.py
 
-== kmeans & PCA ==
+== kmeans & PCA ==  
 winedata.py
 
-== linear regression == 
+== linear regression ==   
 california.py
 
 == PCA ==  
