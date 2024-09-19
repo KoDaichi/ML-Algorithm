@@ -1,15 +1,15 @@
 ## ML test program ##  
+== linear regression ==   
+california.py (https://qiita.com/nuco_fn/items/75272b5f4a3c27da132a)  
+
 == kmeans ==  
-kmeans.py
+kmeans.py (https://qiita.com/g-k/items/0d5d22a12a4507ecbf11)  
 
 == kmeans & PCA ==  
-winedata.py
-
-== linear regression ==   
-california.py
+winedata.py (https://qiita.com/tk-tatsuro/items/1228c90e8803db378f31)  
 
 == PCA ==  
-https://qiita.com/g-k/items/893e4e836ae493b03c47
+https://qiita.com/g-k/items/893e4e836ae493b03c47  
 
 == BO ==  
 https://qiita.com/oki_kosuke/items/05b94437c53647631e18  
