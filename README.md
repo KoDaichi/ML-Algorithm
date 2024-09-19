@@ -1,5 +1,5 @@
 ## ML test program ##  
-**linear regression**   
+**==linear regression==**   
 california.py (https://qiita.com/nuco_fn/items/75272b5f4a3c27da132a)  
 
 **kmeans**  
