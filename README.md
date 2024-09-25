@@ -26,3 +26,6 @@ gpr_u_module.py (https://qiita.com/phyblas/items/38bcff139e67a41d9e16)
 SA/sa.py (https://qiita.com/meltyyyyy/items/096efb08fb4ec532c330)  
 https://kumagallium.hatenablog.com/entry/2019/07/24/124501   
 
+
+**object-oriented**
+https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e#:~:text=%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%AF%E3%80%8C
