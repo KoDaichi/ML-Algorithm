@@ -1,4 +1,4 @@
-## ML test program ##  
+## ML URL ##  
 **==linear regression==**   
 california.py (https://qiita.com/nuco_fn/items/75272b5f4a3c27da132a)  
 
@@ -25,6 +25,9 @@ gpr_u_module.py (https://qiita.com/phyblas/items/38bcff139e67a41d9e16)
 **==SA==**  
 SA/sa.py (https://qiita.com/meltyyyyy/items/096efb08fb4ec532c330)  
 https://kumagallium.hatenablog.com/entry/2019/07/24/124501   
+
+**==umap==**
+https://qiita.com/odanny/items/06ab88353bcee7bf6aa7  
 
 
 **object-oriented**
