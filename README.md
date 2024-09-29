@@ -26,7 +26,7 @@ gpr_u_module.py (https://qiita.com/phyblas/items/38bcff139e67a41d9e16)
 SA/sa.py (https://qiita.com/meltyyyyy/items/096efb08fb4ec532c330)  
 https://kumagallium.hatenablog.com/entry/2019/07/24/124501   
 
-**==umap==**
+**==umap==**  
 https://qiita.com/odanny/items/06ab88353bcee7bf6aa7  
 
 
