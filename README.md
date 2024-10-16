@@ -32,6 +32,8 @@ https://kumagallium.hatenablog.com/entry/2019/07/24/124501
 **==umap==**  
 https://qiita.com/odanny/items/06ab88353bcee7bf6aa7  
 
+**==GCN==**  
+https://qiita.com/snoo_py/items/d9ecefbc186ac46a67f3  
 
 **object-oriented**  
 https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e#:~:text=%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%AF%E3%80%8C
