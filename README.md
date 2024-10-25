@@ -39,6 +39,12 @@ https://qiita.com/shionhonda/items/d27b8f13f7e9232a4ae5
 **==ONNX==**  
 https://qiita.com/studio_haneya/items/be9bc7c56af44b7c1e0a  
 
+**==SHAP==**  
+https://qiita.com/perico_v1/items/fbbb18681ecc362a4f9e  
+
+**==LDA==**  
+https://reinforz.co.jp/bizmedia/26948/  
+
 
 **object-oriented**  
 https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e#:~:text=%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%AF%E3%80%8C
