@@ -45,6 +45,10 @@ https://qiita.com/perico_v1/items/fbbb18681ecc362a4f9e
 **==LDA==**  
 https://reinforz.co.jp/bizmedia/26948/  
 
+**==LLM==**  
+https://qiita.com/minorun365/items/4c5dba1de7977c386249  
+https://qiita.com/minorun365/items/081fc560e08f0197a7a8  
+
 
 **object-oriented**  
 https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e#:~:text=%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%AF%E3%80%8C
