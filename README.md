@@ -1,4 +1,4 @@
-## ML URL ##  
+## ML & Algorithm URL ##  
 **==linear regression==**   
 california.py (https://qiita.com/nuco_fn/items/75272b5f4a3c27da132a)  
 
@@ -48,6 +48,9 @@ https://reinforz.co.jp/bizmedia/26948/
 **==LLM==**  
 https://qiita.com/minorun365/items/4c5dba1de7977c386249  
 https://qiita.com/minorun365/items/081fc560e08f0197a7a8  
+
+**==bit全探索==**  
+https://qiita.com/mm-saito-1204/items/3feabbed2ba7bc9d06bd  
 
 
 **object-oriented**  
