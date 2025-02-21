@@ -32,6 +32,9 @@ https://kumagallium.hatenablog.com/entry/2019/07/24/124501
 **==umap==**  
 https://qiita.com/odanny/items/06ab88353bcee7bf6aa7  
 
+**==TabPFN==**  
+https://table-representation-learning.github.io/assets/papers/tabpfn_a_transformer_that_solv.pdf  
+
 **==GCN==**  
 https://qiita.com/snoo_py/items/d9ecefbc186ac46a67f3  
 https://qiita.com/shionhonda/items/d27b8f13f7e9232a4ae5  
