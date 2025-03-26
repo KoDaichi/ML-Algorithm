@@ -57,6 +57,9 @@ https://qiita.com/minorun365/items/081fc560e08f0197a7a8
 **==bit全探索==**  
 https://qiita.com/mm-saito-1204/items/3feabbed2ba7bc9d06bd  
 
+**==パーシステントホモロジー==**  
+https://www.chino-js.com/ja/tech/tda/  
+
 
 **object-oriented**  
 https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e#:~:text=%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%AF%E3%80%8C
