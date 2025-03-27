@@ -13,10 +13,7 @@ https://qiita.com/g-k/items/893e4e836ae493b03c47
 
 **==BO==**  
 https://qiita.com/oki_kosuke/items/05b94437c53647631e18  
-<img src = "https://camo.qiitausercontent.com/e30c17c5d8725c70ce97eaf9d38bada2bd5e45c4/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f313035373131342f62663632613963372d353563322d363635302d303661612d3061303537643234633166662e706e67" width = "50%">  
-
 https://qiita.com/MAsa_min/items/3c14773aa587cafd9e94  
-
 
 **==BOCS==**  
 BOCS/bocs.py (https://qiita.com/meltyyyyy/items/f92d911f551ceb32042a)  
