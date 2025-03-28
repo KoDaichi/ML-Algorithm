@@ -33,6 +33,7 @@ https://qiita.com/odanny/items/06ab88353bcee7bf6aa7
 https://table-representation-learning.github.io/assets/papers/tabpfn_a_transformer_that_solv.pdf  
 BNN: https://openreview.net/pdf?id=KSugKcbNf9  
 SCM: https://www.jstage.jst.go.jp/article/jjb/32/2/32_119/_pdf/-char/ja  
+https://arxiv.org/pdf/2112.10510  
 
 **==GCN==**  
 https://qiita.com/snoo_py/items/d9ecefbc186ac46a67f3  
